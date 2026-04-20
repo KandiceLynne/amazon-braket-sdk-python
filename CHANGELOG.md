@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.116.0 (2026-04-20)
+
+### Deprecations and Removals
+
+ * Retire Rigetti Ankaa-3
+
 ## v1.115.0 (2026-04-07)
 
 ### Features
